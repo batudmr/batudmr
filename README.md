@@ -9,7 +9,6 @@
 - ⚡ Fun fact: I love to travel and I've lived in the US for 6 years.
 
 <br />
-<br />
 
 ## Language & Tools
 
