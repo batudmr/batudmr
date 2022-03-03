@@ -20,8 +20,6 @@
 ![](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=3776AB&color=ffd343)
 
-#
-
 ### Frontend:
 
 ![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=E34F26&color=333)
