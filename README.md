@@ -2,7 +2,7 @@
 
 ## I am a Javascript Developer
 
-- 🔭 I’m currently working on my portfolio project [myFarm](https://github.com/batudmr/myfarm)
+- 🔭 I’m currently working on an ecommerce [project](https://github.com/batudmr/ecommerce)
 - 🌱 I’m currently learning microservices architecture along with Docker and Kubernetes from [this course](https://www.udemy.com/course/microservices-with-node-js-and-react/).
 - 2022 Goals: To be full-time backend developer
 - ⚡ Fun fact: I've lived in the US for 6 years.
