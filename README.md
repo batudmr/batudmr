@@ -1,7 +1,5 @@
 # Hi there, I'm Batuhan 👋
 
-## Software Developer
-
 - 🔭 I’m mostly working with Angular in daily basis.
 - 🌱 I’m currently learning about scalable front-end code architecture, reactive programming and database design.
 - 2023 Goals: To master advanced concepts in Angular and learn databases and related subjects.
