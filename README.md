@@ -1,10 +1,8 @@
 # Hi there, I'm Batuhan 👋
 
 - 🔭 I’m mostly working with Angular in daily basis.
-- 🌱 I’m currently learning about scalable front-end code architecture, reactive programming and database design.
-- 2023 Goals: To master advanced concepts in Angular and learn databases and related subjects.
-- ⚡ Fun fact: I've lived in the US for 6 years and learned coding during COVID pandemic.
-
+- 🌱 I’m currently learning about Spring Boot and Java.
+- 2024 Goals: To become fullstack developer, learn database systems and SQL
 ---
 
 ## Technologies & Tools I'm Using
@@ -23,10 +21,9 @@
 ### Frontend:
 
 ![](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=dd1b16&color=303030)
+![](https://img.shields.io/badge/Svelte-informational?style=for-the-badge&logo=Svelte&logoColor=FF3E00&color=FFF)
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=React&logoColor=61DAFB&color=20232a)
 ![](https://img.shields.io/badge/Next.js-informational?style=for-the-badge&logo=Next.js&logoColor=white&color=000000)
-![](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=E34F26&color=333)
-![](https://img.shields.io/badge/CSS3-informational?style=for-the-badge&logo=css3&logoColor=1572B6&color=333)
 ![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=sass&logoColor=CC6699&color=333)
 
 ### Backend:
